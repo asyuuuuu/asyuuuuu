@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @asyuuuuu
 - 👀 I’m interested in Machine learning Applying data analysis. 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
    - Python (libraries like Pandas, NumPy, and Matplotlib)
-   - R (libraries like tidyverse and ggplot2)
-   - SQL for data wrangling and querying databases
-   - Data visualization tools like Tableau or Power BI
+   - data wrangling and EDA
+   - SQL for qureying database
+   - Data visualization tools like Power BI
 - 💞️ I’m looking to collaborate on open data source or any projects.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/anis-syuhada-azeman/">LinkedIn</a> 
 - ⚡ Fun fact: Im a professional chef!
